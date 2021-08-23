@@ -8,3 +8,4 @@ hello git!
 hello git!
 git-text
 aaaaaaaaa
+git-lhc
